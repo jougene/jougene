@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Eugene
 
-<!--
-**jougene/jougene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am NodeJS Developer with good knowledge in devops culture.
+Interesting not only in Javascript but alse Golang, Rust, Elixir.
 
-Here are some ideas to get you started:
+## My tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![](https://img.shields.io/badge/Phoenix-ED8B00?style=for-the-badge&logo=phoenix&logoColor=white)
+
+## My pet projects
+
+### [noar](https://github.com/vas3k/vas3k.club)
+
+NodeJS Active Record library with similar API
