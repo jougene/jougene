@@ -14,6 +14,6 @@ Interesting not only in Javascript but alse Golang, Rust, Elixir.
 
 ## My pet projects
 
-### [noar](https://github.com/vas3k/vas3k.club)
+### [noar](https://github.com/jougene/noar)
 
 NodeJS Active Record library with similar API
